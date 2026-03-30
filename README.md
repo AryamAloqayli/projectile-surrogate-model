@@ -136,7 +136,7 @@ Observation:
 
 Input:
 v0=45 m/s
-theta=50 degrees
+theta=50° 
 k=0.012
 
 
